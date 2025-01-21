@@ -10,4 +10,8 @@
 17.01.2025
 - I worked some more on the art of the game and changed the object sizes. Now, the non-edible objects are twice as big as the ingredients. I also fixed a slight bug there was with the score points of the game and I made a global variable for proportionalObjectSize, so that the objects are proportional to the size of the screen. I also thought about the design that I'll use for the win screen, game over screen, the main character, etc.
 
+20.01.2025
+- I drew hearts for the game and implemented them so that they would change depending on the number of lives that you have (how many objects you can still miss). I also added points to the screen of the game which show you how many more points you have to get until you win. I then, cleaned up some of the code and added some comments where I thought were necessary. 
+
+
 
