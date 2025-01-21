@@ -13,5 +13,7 @@
 20.01.2025
 - I drew hearts for the game and implemented them so that they would change depending on the number of lives that you have (how many objects you can still miss). I also added points to the screen of the game which show you how many more points you have to get until you win. I then, cleaned up some of the code and added some comments where I thought were necessary. 
 
+21.01.2025
+- I added a restart button and fixed some of the issues that came along with it. I also worked on some bugs that appeared in my code and also renamed some of my variables to make the whole code more easy to follow.
 
 
