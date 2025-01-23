@@ -16,4 +16,6 @@
 21.01.2025
 - I added a restart button and fixed some of the issues that came along with it. I also worked on some bugs that appeared in my code and also renamed some of my variables to make the whole code more easy to follow.
 
+22.01.2025
+- I worked some more on the game. I changed the CSS code so as to center it and to make it not take up the whole screen. I also drew the animations for the hearts beating, and changed the heart code to be a class so that I can animate it easier. I also animated the main character, who is now a pink-haired girl holding a bucket, and I animated a cake spinning, which will be on the Game Won screen.
 
