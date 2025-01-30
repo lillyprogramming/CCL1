@@ -28,7 +28,7 @@ class Heart extends BaseGameObject {
     };
     constructor(width, height) {
         super (width, height);
-        this.loadImagesFromSpritesheet("../images/heart_beat1.png", 2, 1);
+        this.loadImagesFromSpritesheet(".../images/heart_beat1.png", 2, 1);
     }
 }
 
