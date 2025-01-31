@@ -36,7 +36,7 @@ function gameLoop(totalRunningTime) {
     }
     else if(global.pointsCounter >= 20) {
         global.gameWon = true;
-        changeDisplay("../images/win_screen.png");
+        changeDisplay("./images/win_screen.png");
     }
     else {
         global.gameOver = true;
