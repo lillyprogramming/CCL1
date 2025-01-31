@@ -42,7 +42,7 @@ function gameLoop(totalRunningTime) {
         global.gameOver = true;
         button.style.display = "block";
         button.src = "./images/replay_button.png";
-        changeDisplay("../images/end_screen2.png");
+        changeDisplay("./images/end_screen2.png");
     }
 }
   function goodOrBadGuy() {
