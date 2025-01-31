@@ -47,7 +47,7 @@ class Item extends BaseGameObject {
         super (x, y, width, height, name);
         this.name = name;
         if(this.name === "Lie") {
-            this.loadImagesFromSpritesheet("../images/lie_turnaround.png", 4, 1);
+            this.loadImagesFromSpritesheet("images/lie_turnaround.png", 4, 1);
             this.animationData.lastSpriteIndex = 3;
         }
         else {
